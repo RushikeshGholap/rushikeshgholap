@@ -1,10 +1,10 @@
 ### Hi there, I'm [Rushikesh!](https://RushikeshGholap.github.io) 👋
 
 <a href="https://www.linkedin.com/in/RushikeshGholap/">
-  <img align="left" alt="Rushikesh Gholap | LinkedIn" width="20px" src="https://raw.githubusercontent.com/RushikeshGholap/RushikeshGholap/master/assets/codesandbox.svg" />
+  <img align="left" alt="Rushikesh Gholap | LinkedIn" width="20px" src="https://raw.githubusercontent.com/RushikeshGholap/RushikeshGholap/master/assests/codesandbox.svg" />
 </a>
 <a href="https://twitter.com/RushikeshBG">
-  <img align="left" alt="Rushikesh Gholap | Twitter" width="21px" src="https://raw.githubusercontent.com/RushikeshGholap/RushikeshGholap/master/assets/twitter.svg" />
+  <img align="left" alt="Rushikesh Gholap | Twitter" width="21px" src="https://raw.githubusercontent.com/RushikeshGholap/RushikeshGholap/master/assests/twitter.svg" />
 </a>
 
 
@@ -20,12 +20,12 @@ Hi, I'm Rushikesh Gholap, a aspiring Data Scientist from India.
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/RushikeshGholap/RushikeshGholap/master/assets/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/RushikeshGholap/RushikeshGholap/master/assets/pandas.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/RushikeshGholap/RushikeshGholap/master/assets/numpy.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/RushikeshGholap/RushikeshGholap/master/assets/jupyter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/RushikeshGholap/RushikeshGholap/master/assets/aws.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/RushikeshGholap/RushikeshGholap/master/assets/streamlit.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/RushikeshGholap/RushikeshGholap/master/assests/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/RushikeshGholap/RushikeshGholap/master/assests/pandas.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/RushikeshGholap/RushikeshGholap/master/assests/numpy.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/RushikeshGholap/RushikeshGholap/master/assests/jupyter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/RushikeshGholap/RushikeshGholap/master/assests/aws.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/RushikeshGholap/RushikeshGholap/master/assests/streamlit.png"></code>
 
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/RushikeshGholap/)*
