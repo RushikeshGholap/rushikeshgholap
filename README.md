@@ -15,7 +15,7 @@ Hi, I'm Rushikesh Gholap, a aspiring Data Scientist from India.
 
 - 🔭 I’m currently working on [Mumbai University Grades Analysis and Predictions](https://github.com/RushikeshGholap/Mumbai-University-Grades-Analysis-Prediction)
 - 🌱 I’m currently learning SQL,DL
-- 👯 I’m looking to contribute on [Github Readme Stats](https://github.com/RushikeshGholap/)
+- 👯 I’m looking to contribute to society 
 - 💬 Ask me about anything [here](https://github.com/RushikeshGholap/RushikeshGholap/issues)
 
 **Languages and Tools:**  
