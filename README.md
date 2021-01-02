@@ -1,7 +1,7 @@
 ### Hi there, I'm [Rushikesh!](https://RushikeshGholap.github.io) 👋
 
 <a href="https://www.linkedin.com/in/RushikeshGholap/">
-  <img align="left" alt="Rushikesh Gholap | LinkedIn" width="20px" src="https://raw.githubusercontent.com/RushikeshGholap/RushikeshGholap/master/assests/linkedin" />
+  <img align="left" alt="Rushikesh Gholap | LinkedIn" width="20px" src="https://raw.githubusercontent.com/RushikeshGholap/RushikeshGholap/master/assests/linkedin.png" />
 </a>
 <a href="https://twitter.com/RushikeshBG">
   <img align="left" alt="Rushikesh Gholap | Twitter" width="21px" src="https://raw.githubusercontent.com/RushikeshGholap/RushikeshGholap/master/assests/twitter.svg" />
