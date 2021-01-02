@@ -27,7 +27,7 @@ Hi, I'm Rushikesh Gholap, a aspiring Data Scientist from India.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/RushikeshGholap/)*
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github, it's a new feature of [github-readme-stats](https://github.com/RushikeshGholap/)*
 
 
 <a href="https://github.com/RushikeshGholap">
