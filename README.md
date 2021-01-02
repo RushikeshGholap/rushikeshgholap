@@ -28,22 +28,10 @@ Hi, I'm Rushikesh Gholap, a aspiring Data Scientist from India.
 <code><img height="20" src="https://raw.githubusercontent.com/RushikeshGholap/RushikeshGholap/master/assests/streamlit.png"></code>
 
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/RushikeshGholap/)*
-
 
 <a href="https://github.com/RushikeshGholap">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RushikeshGholap&show_icons=true&include_all_commits=true&theme=dark" alt="Rushikesh's github stats" />
 </a>
 <a href="https://github.com/RushikeshGholap/">
-  <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RushikeshGholap&layout=compact&theme=dark" />
-</a>
-
-<a href="https://github.com/RushikeshGholap/">
-  <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RushikeshGholap&repo=Mumbai-University-Grades-Analysis-Prediction&theme=dark" />
-</a>    
-<a href="https://github.com/RushikeshGholap/RushikeshGholap.github.io">
-  <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RushikeshGholap&repo=Amexp-2019&theme=dark" />
 </a>
