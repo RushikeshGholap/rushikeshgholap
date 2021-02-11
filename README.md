@@ -35,4 +35,5 @@ Hi, I'm Rushikesh Gholap, a aspiring Data Scientist from India.
 <a href="https://github.com/RushikeshGholap/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RushikeshGholap&layout=compact&theme=dark" />
 </a>
- <img align="center" src="https://profile-counter.glitch.me/rushikeshgholap/count.svg" alt="Rushikesh's github Hits" />
+
+Visiter's Count <img align="center" src="https://profile-counter.glitch.me/rushikeshgholap/count.svg" alt="Rushikesh's github Hits" />
