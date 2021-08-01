@@ -26,6 +26,9 @@ Hi, I'm Rushikesh Gholap, a aspiring Data Scientist from India.
 <code><img height="20" src="https://raw.githubusercontent.com/RushikeshGholap/RushikeshGholap/master/assests/jupyter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/RushikeshGholap/RushikeshGholap/master/assests/aws.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/RushikeshGholap/RushikeshGholap/master/assests/streamlit.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/RushikeshGholap/RushikeshGholap/master/assests/django.png"></code>
+
+
 
 
 
