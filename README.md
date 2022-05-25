@@ -31,13 +31,3 @@ Hi, I'm Rushikesh Gholap, a aspiring Data Scientist from India.
 
 
 
-
-<a href="https://github.com/RushikeshGholap">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RushikeshGholap&show_icons=true&include_all_commits=true&theme=dark" alt="Rushikesh's github stats" />
-</a>
-<a href="https://github.com/RushikeshGholap/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RushikeshGholap&layout=compact&theme=dark" />
-</a>
-
-Views's Count <img align="center" src="https://profile-counter.glitch.me/rushikeshgholap/count.svg" alt="Rushikesh's github Hits" />
-<a href="https://app.daily.dev/RushikeshGholap"><img src="https://api.daily.dev/devcards/0377e778b17045fbb172fd313bf7d274.png?r=3hr" width="400" alt="Rushikesh Gholap's Dev Card"/></a>
