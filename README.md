@@ -1,5 +1,5 @@
 ### Hi there, I'm [Rushikesh!](https://RushikeshGholap.github.io) 👋
-
+![Profile View Counter](https://komarev.com/ghpvc/?username=rushikeshgholap)
 <a href="https://www.linkedin.com/in/RushikeshGholap/">
   <img align="left" alt="Rushikesh Gholap | LinkedIn" width="20px" src="https://raw.githubusercontent.com/RushikeshGholap/RushikeshGholap/master/assests/linkedin.png" />
 </a>
