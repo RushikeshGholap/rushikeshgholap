@@ -1,33 +1,32 @@
-### Hi there, I'm [Rushikesh!](https://RushikeshGholap.github.io) 👋
+
+
+---
+
+### Hi there, I'm [Rushikesh Gholap!](https://RushikeshGholap.com) 👋
+
 ![Profile View Counter](https://komarev.com/ghpvc/?username=rushikeshgholap)
-<a href="https://www.linkedin.com/in/RushikeshGholap/">
-  <img align="left" alt="Rushikesh Gholap | LinkedIn" width="20px" src="https://raw.githubusercontent.com/RushikeshGholap/RushikeshGholap/master/assests/linkedin.png" />
-</a>
-<a href="https://twitter.com/RushikeshBG">
-  <img align="left" alt="Rushikesh Gholap | Twitter" width="21px" src="https://raw.githubusercontent.com/RushikeshGholap/RushikeshGholap/master/assests/twitter.svg" />
-</a>
 
+[![LinkedIn Badge](https://img.shields.io/badge/-RushikeshGholap-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/RushikeshGholap/)
+[![Twitter Badge](https://img.shields.io/twitter/follow/RushikeshBG?label=Follow&style=social)](https://twitter.com/RushikeshBG)
 
-<br />
-<br />
+---
 
-Hi, I'm Rushikesh Gholap, an aspiring Data Scientist from India.
+I'm a Senior Data Scientist from India, currently expanding my knowledge and skills through a Master's program in Data Science at Drexel University, set to graduate in 2025. With a rich background in data-driven analysis and predictive modeling, I'm passionate about leveraging data to solve real-world problems and make impactful contributions to society.
 
-- 🔭 I’m currently working on [Mumbai University Grades Analysis and Predictions](https://github.com/RushikeshGholap/Mumbai-University-Grades-Analysis-Prediction)
-- 🌱 I’m currently learning SQL,DL
-- 👯 I’m looking to contribute to society 
-- 💬 Ask me about anything [here](https://github.com/RushikeshGholap/RushikeshGholap/issues)
+🌟 **What I'm focusing on:**
 
-**Languages and Tools:**  
+- 🔭 Working on a project: [Mumbai University Grades Analysis and Predictions](https://github.com/RushikeshGholap/Mumbai-University-Grades-Analysis-Prediction), aiming to leverage historical data for insightful academic predictions.
+- 🌱 Deepening my expertise in SQL and Deep Learning to broaden my analytical capabilities.
+- 👯 Eager to collaborate on initiatives that drive positive societal change through data insights.
 
-<code><img height="20" src="https://raw.githubusercontent.com/RushikeshGholap/RushikeshGholap/master/assests/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/RushikeshGholap/RushikeshGholap/master/assests/pandas.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/RushikeshGholap/RushikeshGholap/master/assests/numpy.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/RushikeshGholap/RushikeshGholap/master/assests/jupyter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/RushikeshGholap/RushikeshGholap/master/assests/aws.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/RushikeshGholap/RushikeshGholap/master/assests/streamlit.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/RushikeshGholap/RushikeshGholap/master/assests/django.png"></code>
+🎯 **Open to Opportunities:** I'm actively seeking internships and job roles that challenge me to apply and expand my data science expertise, particularly in dynamic and innovative environments.
 
+💡 **Ask Me Anything:** Feel free to reach out with queries or discussions [here](https://github.com/RushikeshGholap/RushikeshGholap/issues). I'm always open to sharing knowledge and learning from others.
 
+**Languages and Tools I Excel In:**
 
+- Python, SQL, Deep Learning, along with tools like Jupyter Notebook, AWS, Streamlit, and Django, form the core of my technical toolbox. My proficiency in Pandas and NumPy allows me to manipulate and analyze complex datasets effectively.
 
+**Connect with me** on [LinkedIn](https://www.linkedin.com/in/RushikeshGholap/) to stay updated with my latest projects and endeavors in data science.
+
+---
