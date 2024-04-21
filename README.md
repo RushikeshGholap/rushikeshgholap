@@ -13,7 +13,7 @@
 </p>
 
 ### About Me
-Hello! I'm Rushikesh Gholap, an enthusiastic senior data scientist and early team member at Markytics in India. With a profound expertise in data science, machine learning, and software engineering, I aim to leverage technology to foster innovation and drive business growth.
+I'm a Senior Data Scientist from India, currently expanding my knowledge and skills through a Master's program in **Data Science** at **Drexel University**, set to graduate in 2025. With a rich background in data-driven analysis and predictive modeling, I'm passionate about leveraging data to solve real-world problems and make impactful contributions to society.
 
 Visit my website for more: [www.rushikeshgholap.com](http://www.rushikeshgholap.com)
 
