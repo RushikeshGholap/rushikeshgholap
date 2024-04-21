@@ -4,10 +4,8 @@
 
 ### Hi there, I'm [Rushikesh Gholap!](https://RushikeshGholap.com) 👋
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=rushikeshgholap)
 
 [![LinkedIn Badge](https://img.shields.io/badge/-RushikeshGholap-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/RushikeshGholap/)
-[![Twitter Badge](https://img.shields.io/twitter/follow/RushikeshBG?label=Follow&style=social)](https://twitter.com/RushikeshBG)
 
 ---
 
@@ -15,7 +13,7 @@ I'm a Senior Data Scientist from India, currently expanding my knowledge and ski
 
 🌟 **What I'm focusing on:**
 
-- 🔭 Working on a project: [Mumbai University Grades Analysis and Predictions](https://github.com/RushikeshGholap/Mumbai-University-Grades-Analysis-Prediction), aiming to leverage historical data for insightful academic predictions.
+- 🔭 Master's degree where I can learn leading-edge technology in AI and hone them.
 - 🌱 Deepening my expertise in SQL and Deep Learning to broaden my analytical capabilities.
 - 👯 Eager to collaborate on initiatives that drive positive societal change through data insights.
 
